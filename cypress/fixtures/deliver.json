@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "nome": "Vicente Almeida",
+        "cpf": "00125882028",
+        "email": "viscondedeavipal@gmail.com",
+        "whatsapp": "51999999999",
+        "endereco": {
+            "cep": "91920290",
+            "rua": "Rua João Mora",
+            "numero": "1024",
+            "complemento": "142",
+            "bairro": "Camaquã",
+            "cidade_uf": "Porto Alegre/RS"
+        },
+        "metodo_entrega": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "nome": "Letícia da Costa",
+        "cpf": "x00125882028AAA",
+        "email": "viscondedeavipal@gmail.com",
+        "whatsapp": "51999999999",
+        "endereco": {
+            "cep": "91920290",
+            "rua": "Rua João Mora",
+            "numero": "1024",
+            "complemento": "142",
+            "bairro": "Camaquã",
+            "cidade_uf": "Porto Alegre/RS"
+        },
+        "metodo_entrega": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv": {
+        "nome": "Vicente Almeida",
+        "cpf": "00125882028",
+        "email": "viscondedeavipalgmail.com",
+        "whatsapp": "51999999999",
+        "endereco": {
+            "cep": "91920290",
+            "rua": "Rua João Mora",
+            "numero": "1024",
+            "complemento": "142",
+            "bairro": "Camaquã",
+            "cidade_uf": "Porto Alegre/RS"
+        },
+        "metodo_entrega": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
